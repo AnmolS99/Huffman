@@ -1,5 +1,5 @@
 
-def Huffmann(string):
+def Huffman_decoder(string):
     decoded_str = ""
     tmp_str = ""
     i = 0
@@ -100,4 +100,4 @@ dictionary = convert_to_dict(["\n=11101100",
                               "z=101110110110"])
 
 # Decoding the Huffman code for "z"
-print(Huffmann("101110110110"))
+print(Huffman_decoder("101110110110"))
