@@ -1,2 +1,2 @@
 # Huffman
-Huffman encoder and Huffman decoder
+Huffman decoder (and soon Huffman encoder also!)
